@@ -6,3 +6,4 @@ end
 if total >= 150
   puts "合計１５０以上です"
 end
+ # 再度アップロード
